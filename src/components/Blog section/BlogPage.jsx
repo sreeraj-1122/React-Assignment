@@ -38,7 +38,6 @@ const BlogPage = () => {
         ))}
         <div className="block md:hidden col-span-full">
           <Button
-            onClick={() => alert("Chat with our team!")}
             variant="primary"
           >
             View all posts

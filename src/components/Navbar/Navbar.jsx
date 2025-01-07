@@ -13,7 +13,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-white h-16 md:h-20 flex justify-between items-center px-4 md:px-0">
+    <nav className="bg-white h-16 md:h-20 flex justify-between items-center ">
       <div className="flex items-center gap-8">
         <Logo />
         <ul

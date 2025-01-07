@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="w-full flex flex-col items-center gap-6 mt-10">
       <div className="flex items-center border border-[#E63F3A80] rounded-2xl ps-1 py-1 pr-2 md:bg-white bg-[#F9F5FF] ">
-        <span className="border border-[#E63F3A80] rounded-2xl text-[#E63F3A] sm:text-sm text-xs font-medium sm:px-2 px-1 py-[2px]">
+        <span className="border border-[#E63F3A80] rounded-2xl text-[#E63F3A] sm:text-sm text-xs font-medium sm:px-2 px-1  py-[2px]">
           New feature
         </span>
         <span className="text-[#E63F3A] sm:text-sm text-xs font-medium ps-2 py-[2px]">
